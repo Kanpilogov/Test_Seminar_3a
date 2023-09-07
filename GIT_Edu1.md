@@ -40,3 +40,4 @@ git merge branch_name - слить ветки
 
 git log --graph - лог коммитов с визуализацией
 
+git reset - удаление комитов
