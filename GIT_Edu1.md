@@ -37,3 +37,6 @@ git branch name - создать новую ветку
 git branch -d branch name - удалить ветку
 
 git merge branch_name - слить ветки 
+
+git log --graph - лог коммитов с визуализацией
+
