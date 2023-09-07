@@ -34,3 +34,6 @@ git checkout branch_name - переход на указанную ветку
 
 git branch name - создать новую ветку
 
+git branch -d branch name - удалить ветку
+
+git merge branch_name - слить ветки 
